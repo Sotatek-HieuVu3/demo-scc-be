@@ -1,0 +1,16 @@
+{
+  "title": {
+    "lowBalance": "低バランス",
+    "transferTokenToExternalWalletFailed": "外部ウォレットへのトークン転送に失敗しました",
+    "transferTokenToExternalWalletSuccess": "トークン転送に成功しました",
+    "transferNftToExternalWalletFailed": "外部ウォレットへのNFT転送に失敗しました",
+    "transferNftToExternalWalletSuccess": "NFT転送に成功しました"
+  },
+  "body": {
+    "transferTokenToExternalWalletFailed": "トークン転送に失敗しました",
+    "transferTokenToExternalWalletSuccess": "トークン転送に成功しました",
+    "lowBalance": "低バランス",
+    "transferNftToExternalWalletFailed": "NFT転送に失敗しました",
+    "transferNftToExternalWalletSuccess": "NFT転送に成功しました"
+  }
+}

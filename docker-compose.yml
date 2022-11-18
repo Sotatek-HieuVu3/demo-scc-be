@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  mongodb_container:
+    image: mongo:latest
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo-db:/data/db
+
+
+  redis:
+    image: redis:6-alpine
+    ports:
+      - 6479:6379
+    networks:
+      - base_net
+
+
+networks:
+  base_net:
+    driver: bridge
+
+volumes:
+  mongo-db:

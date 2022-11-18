@@ -1,0 +1,17 @@
+{
+  "title": {
+    "lowBalance": "Low Balance",
+    "lowBalance1": "Low Balance 1",
+    "transferTokenToExternalWalletFailed": "Transfer token to external wallet failed",
+    "transferTokenToExternalWalletSuccess": "Transfer token to external wallet success",
+    "transferNftToExternalWalletFailed": "Transfer nft to external wallet failed",
+    "transferNftToExternalWalletSuccess": "Transfer nft to external wallet success"
+  },
+  "body": {
+    "lowBalance": "You have low balance. Please deposit to continue.",
+    "transferTokenToExternalWalletFailed": "Transfer token to external wallet failed",
+    "transferTokenToExternalWalletSuccess": "Transfer token to external wallet success",
+    "transferNftToExternalWalletFailed": "Transfer nft to external wallet failed",
+    "transferNftToExternalWalletSuccess": "Transfer nft to external wallet success"
+  }
+}
